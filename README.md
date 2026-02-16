@@ -1,2 +1,4 @@
-# Data_Analysis_DashBoard
-I developed a Comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing,data cleaning and data visualization
+#Hyper_Market_Data-Analysis(Interactive DashBoard creation using MS Excel)
+##Project Objective
+
+The Hyper Market wants to create an Annual sales report for 2022. so that, the owner of the Hyper Market can understand their customers and grow more sales in 2023 & 2024
