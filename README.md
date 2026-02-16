@@ -25,8 +25,8 @@ The Hyper Market wants to create an Annual sales report for 2022. so that, the o
 - Merge all pivot table into dashboard and apply slicer to make dynamic.
 
   ## Dashboard
+  <img width="1322" height="463" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/15f8de1e-c488-4f65-8280-ee713282f544" />
 
-  <img width="1366" height="768" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/c494a8cd-2ea3-4257-84df-c510206ac9cd" />
 
 
 
