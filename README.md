@@ -27,6 +27,14 @@ The Hyper Market wants to create an Annual sales report for 2022. so that, the o
   ## Dashboard
   <img width="1322" height="463" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/15f8de1e-c488-4f65-8280-ee713282f544" />
 
+## Project Insight
+- Women customers are more likely to buy products compared to men (-65%).
+- The state of Maharastra, Karnatka and Uttar Pradesh are the top 3 product buyer.
+- The adult age group (30-49 yrs) is max contibuting (50%) and buy the most product.
+- The maximum number of product customer orders from Amazone,Flipkart and Myntra channel.
+- More than 90% of the product delivered
 
+ ## Final Conclusion
+To improve the sales of Hyper Market ,a strategic marketing plan focused on women aged 30-49 years residing in Maharastra ,Karnatka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment. as they often make significant household and lifestyle purchases. the approch should include targeted digital marketing campanings and personlized promotion to capture their attention.
 
 
